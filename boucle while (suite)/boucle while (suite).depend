@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505759122 source:d:\prog\boucle while (suite)\main.c
+	<stdio.h>
+	<stdlib.h>
+
